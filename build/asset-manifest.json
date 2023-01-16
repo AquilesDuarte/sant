@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3a098ad3.js",
+    "static/media/cartao.png": "/static/media/cartao.a4f792bb747c0e7d1c09.png",
+    "static/media/medir-com-barbante.gif": "/static/media/medir-com-barbante.851e50f41974ccf71f63.gif",
+    "static/media/bganel.png": "/static/media/bganel.db199dc079fb10f2c15d.png",
+    "static/media/logo.svg": "/static/media/logo.7be32324e86affbcb1b583dee0604410.svg",
+    "index.html": "/index.html",
+    "main.3a098ad3.js.map": "/static/js/main.3a098ad3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a098ad3.js"
+  ]
+}
